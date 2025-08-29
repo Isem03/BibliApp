@@ -1,4 +1,4 @@
-# 📖 Bible Verses App
+# 📖 BibliApp
 
 Aplicación web que permite **consultar versículos de la Biblia** escribiendo la cita en un formulario (ej. `Juan 3:16`).  
 Además, incluye la opción de mostrar un versículo aleatorio para inspiración diaria. 🙏✨
